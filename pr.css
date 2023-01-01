@@ -1,0 +1,10 @@
+img{
+    height: 100px;
+    width: 100px;
+}
+table{
+    border: 3px;
+    height: 500px;
+    direction: rtl;
+    width: 300px;
+}
